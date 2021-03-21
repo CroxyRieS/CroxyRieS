@@ -4,4 +4,4 @@
 <h3 align="left">
 Ben kimim?
 </h3>
-<p>Ben YouTube`Da Video Paylaşan Biriyim.</p>
+<p>Merhaba Ben Burak Yani CroxyRieS YouTube Code, Altyapı, Eğitici, Bilgilendirici Videolar Çekiyorum.</p>
